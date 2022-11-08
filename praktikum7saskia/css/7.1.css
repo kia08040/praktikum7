@@ -1,0 +1,32 @@
+.box1{
+    background-color: rgb(232, 128, 102);
+    width: 20%;
+    margin-right: 5%;
+    height: 600px;
+    margin-top: 5%;
+}
+.box2{
+    background-color: rgb(233, 242, 127);
+    width: 20%;
+    margin-right: 5%;
+    height: 600px;
+    margin-top: 5%;
+}
+.box3{
+    background-color: rgb(124, 231, 145);
+    width: 20%;
+    margin-right: 5%;
+    height: 600px;
+    margin-top: 5%;
+}
+.box4{
+    background-color: rgb(105, 202, 211);
+    width: 20%;
+    margin-right: 5%;
+    height: 600px;
+    margin-top: 5%;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
